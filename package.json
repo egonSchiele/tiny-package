@@ -1,0 +1,14 @@
+{
+  "name": "tiny-package",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "files": [
+    "./index.js"
+  ],  
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
